@@ -7,4 +7,5 @@ Better Recipes
 
 |版本|说明|
 |-|-|
-|v0.0.1 (Latest)|配置好Gradle, Forge, MCP及各种配置文件|
+|v1.3.2 (Latest)|添加黑曜石苹果|
+|v0.0.1|配置好Gradle, Forge, MCP及各种配置文件|
