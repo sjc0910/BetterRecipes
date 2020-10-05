@@ -7,7 +7,7 @@ Better Recipes
 
 |版本|说明|
 |---------------|--------------------------------|
-|v1.8.9 (Latest)|添加黑曜石锭、黑曜石剑合成配方及翻译文件|
+|[v1.8.9 (Latest)](https://github.com/sjc0910/BetterRecipes/releases/download/v1.8.9/BetterRecipes.jar)|添加黑曜石锭、黑曜石剑合成配方及翻译文件|
 |v1.3.2|添加黑曜石苹果|
 |v0.0.1|配置好Gradle, Forge, MCP及各种配置文件|
 
