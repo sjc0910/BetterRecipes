@@ -1,7 +1,10 @@
 # Better Recipes
 Better Recipes  
 更好的合成表
-这个Mod将会增加一些实用的合成表  
+这个Mod将会增加一些实用的合成表
+
+## DEV分支
+dev分支是开发者分支，会上传测试版代码
 
 ## 版本列表  
 
