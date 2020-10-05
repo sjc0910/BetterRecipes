@@ -7,7 +7,7 @@
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\run"/>
     <module name="forge-1.16.3-34.1.1-mdk.main"/>
     <envs>
-      <env name="MOD_CLASSES" value="examplemod%%$PROJECT_DIR$\out\production\resources;examplemod%%$PROJECT_DIR$\out\production\classes"/>
+      <env name="MOD_CLASSES" value="examplemod%%$PROJECT_DIR$\build\resources\main;examplemod%%$PROJECT_DIR$\build\classes\java\main"/>
       <env name="MCP_MAPPINGS" value="snapshot_20200514-1.16"/>
       <env name="MCP_VERSION" value="20200911.084530"/>
       <env name="FORGE_VERSION" value="34.1.1"/>
