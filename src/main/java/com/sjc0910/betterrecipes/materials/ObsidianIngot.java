@@ -1,5 +1,6 @@
-package com.sjc0910.betterrecipes;
+package com.sjc0910.betterrecipes.materials;
 
+import com.sjc0910.betterrecipes.ModGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 

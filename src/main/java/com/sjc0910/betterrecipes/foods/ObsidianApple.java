@@ -1,4 +1,5 @@
-package com.sjc0910.betterrecipes;
+package com.sjc0910.betterrecipes.foods;
+import com.sjc0910.betterrecipes.ModGroup;
 
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
@@ -10,9 +11,6 @@ import net.minecraft.potion.Effects;
 import javax.swing.*;
 
 public class ObsidianApple extends Item {
-    public ObsidianApple(Properties properties) {
-        super(properties);
-    }
     // ºÚê×Ê¯Æ»¹û
     // »Ö¸´10¼¢¶öÖµ£¬10±¥ºÍ¶È
     // Buff:
@@ -37,8 +35,7 @@ public class ObsidianApple extends Item {
             .effect(()-> new EffectInstance(Effects.INVISIBILITY, 5 * 20, 1), (float).8)
             .effect(()-> new EffectInstance(Effects.STRENGTH, 8 * 60 * 20, 5), 1)
             .build();
-
     public ObsidianApple() {
-        super(new Properties().food(food).group(ModGroup.BRGroup));
+        super(new Properties().food(food).group(ItemGroup.FOOD));
     }
 }
