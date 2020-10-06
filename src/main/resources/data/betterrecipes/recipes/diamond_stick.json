@@ -1,14 +1,10 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "0M0",
-    "0M0",
-    "000"
+    "M",
+    "M"
   ],
   "key": {
-    "0": {
-      "item": "minecraft:air"
-    },
     "M": {
       "item": "minecraft:diamond"
     }
