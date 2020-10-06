@@ -2,19 +2,22 @@
   "type": "crafting_shaped",
   "pattern": [
     "MMM",
-    "MAM",
-    "MMM"
+    "0S0",
+    "0S0"
   ],
   "key": {
     "M": {
       "item": "betterrecipes:obsidian_ingot"
     },
-    "A": {
-      "item": "minecraft:apple"
+    "S": {
+      "item": "betterrecipes:diamond_stick"
+    },
+    "0": {
+      "item": "minecraft:air"
     }
   },
   "result": {
-    "item": "betterrecipes:obsidian_apple",
+    "item": "betterrecipes:obsidian_pickaxe",
     "count": 1
   }
 }
