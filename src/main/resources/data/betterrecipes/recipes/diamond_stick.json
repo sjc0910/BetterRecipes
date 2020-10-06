@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "0M0",
+    "0M0",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:air"
+    },
+    "M": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "betterrecipes:diamond_stick",
+    "count": 4
+  }
+}
