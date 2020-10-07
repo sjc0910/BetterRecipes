@@ -8,7 +8,7 @@ import java.util.function.Supplier;
 
 public enum ModItemTier implements IItemTier {
 
-    OBSIDIAN(3, 2000, 10.0F, 5.0F, 30, () -> {
+    OBSIDIAN(4, 2050, 10.0F, 5.0F, 30, () -> {
         return Ingredient.fromItems(ItemRegistry.obsidianIngot.get());
     });
 

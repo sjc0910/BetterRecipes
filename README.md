@@ -1,7 +1,8 @@
 # Better Recipes
 Better Recipes  
 更好的合成表
-这个Mod将会增加一些实用的合成表
+这个Mod将会增加一些实用的合成表    
+
 
 ## 版本列表  
 
