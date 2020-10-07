@@ -22,3 +22,7 @@ Better Recipes
 |英文|美国|en_us.json|
 
 如有想要投稿翻译的，请在[issues](https://github.com/sjc0910/BetterRecipes/issues)中提出
+
+## 特别鸣谢（排名不分先后）
+FledgeXu的[Boson 1.16 Mod开发教程](https://www.mcbbs.net/thread-1122554-1-1.html)  
+[Amos1012](https://github.com/Amos1012)提供的物品材质
