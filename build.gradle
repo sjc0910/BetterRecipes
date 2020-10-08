@@ -13,9 +13,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '2.3.5'
-group = 'com.yourname.betterrecipes' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'Btter Recipes'
+version = '2.5.9'
+group = 'com.sjc0910.betterrecipes' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'Better Recipes'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
