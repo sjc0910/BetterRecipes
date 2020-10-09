@@ -8,9 +8,10 @@ Better Recipes
 
 |版本|说明|
 |---------------|--------------------------------|
-|[v2.5.9 (Latest)](https://github.com/sjc0910/BetterRecipes/releases/download/v2.5.9/BetterRecipes.jar)|修复成吨的Bug，添加黑曜石锭的高炉配方|
-|[v2.1.1](https://github.com/sjc0910/BetterRecipes/releases/download/v2.1.1/BetterRecipes.jar)|添加钻石棍，完善镐和剑|
-|[v1.8.9](https://github.com/sjc0910/BetterRecipes/releases/download/v1.8.9/BetterRecipes.jar)|添加黑曜石锭、黑曜石剑合成配方及翻译文件|
+|[v2.6.3 (Latest)](https://github.com/sjc0910/BetterRecipes/releases/tag/v2.6.3)
+|[v2.5.9](https://github.com/sjc0910/BetterRecipes/releases/tag/v2.5.9/)|修复成吨的Bug，添加黑曜石锭的高炉配方|
+|[v2.1.1](https://github.com/sjc0910/BetterRecipes/releases/tag/v2.1.1/)|添加钻石棍，完善镐和剑|
+|[v1.8.9](https://github.com/sjc0910/BetterRecipes/releases/tag/v1.8.9/)|添加黑曜石锭、黑曜石剑合成配方及翻译文件|
 |v1.3.2|添加黑曜石苹果|
 |v0.0.1|配置好Gradle, Forge, MCP及各种配置文件|
 

@@ -4,6 +4,6 @@ import net.minecraft.item.Item;
 
 public class BRIcon extends Item {
     public BRIcon() {
-        super(new Properties().group(ModGroup.BRGroup));
+        super(new Properties().maxStackSize(1));
     }
 }

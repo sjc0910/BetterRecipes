@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '2.5.9'
+version = '2.6.3'
 group = 'com.sjc0910.betterrecipes' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'BetterRecipes-1.16.3'
 
